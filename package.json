@@ -1,0 +1,14 @@
+{
+  "name": "farm-cs2-hours",
+  "version": "1.0.0",
+  "description": "a simple programm to boost your cs2 hours ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "StrgCandV",
+  "license": "ISC",
+  "dependencies": {
+    "steam-user": "^5.0.1"
+  }
+}
